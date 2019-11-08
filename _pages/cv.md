@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, New York University, Exp: 2021
+* M.S. in Data Science, New York University, 2021
 * B.S. in Information Systems, George Mason University, 2017
 
 
@@ -50,7 +50,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->  
-Teaching Assistantships
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
