@@ -18,15 +18,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Fall 2019: Computer Science Teaching Assistant
+  * New York University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* February 2018 - May 2019: Consultant
+  * Grant Thornton LLC
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+* Summers 2016, 2017 : Data Analyst Intern
+    * comScore LLC
+    * Duties included: Merging pull requests
+    * Supervisor: Professor Hub
 
 Skills
 ======
