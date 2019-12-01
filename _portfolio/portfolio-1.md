@@ -1,6 +1,6 @@
 ---
 title: "Predicting NYC Airbnb Prices"
-excerpt: "Linear models for predicting cleared Airbnb prices across New York city<br/><img src='/images/airbnb-bagel.gif' width='400' height='200'>"
+excerpt: "Linear models for predicting cleared Airbnb prices across New York city<br/><img src='/images/airbnb-bagel.gif' width='500' height='300'>"
 collection: portfolio
 ---
 
