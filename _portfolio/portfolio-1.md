@@ -1,6 +1,6 @@
 ---
 title: "Predicting NYC Airbnb Prices"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/airbnb-bagel.gif'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/airbnb-bagel.gif',width='200' height='100'>"
 collection: portfolio
 ---
 
