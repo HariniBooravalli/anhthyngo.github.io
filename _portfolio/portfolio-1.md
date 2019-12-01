@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://github.com/anhthyngo/ds-ga1001' style='color:#FF0000;'>Predicting NYC Airbnb Prices</a>"
+title: "< style='text-decoration:none' href='https://github.com/anhthyngo/ds-ga1001' style='color:#FF0000;'>Predicting NYC Airbnb Prices</a>"
 excerpt: "<a href='https://github.com/anhthyngo/ds-ga1001'><img src='/images/airbnb-bagel.gif' width='500' height='300'></a>"
 date: 2019-11-29
 collection: portfolio
