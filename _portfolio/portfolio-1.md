@@ -1,6 +1,7 @@
 ---
 title: "Predicting NYC Airbnb Prices"
-excerpt: "<a href='https://github.com/anhthyngo/ds-ga1001'><img src='/images/airbnb-bagel.gif' width='500' height='300'></a>"
+excerpt: "<img src='/images/airbnb-bagel.gif' width='500' height='300'>"
+date: 2019-11-29
 collection: portfolio
 ---
 
