@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a currently studying for my Masters in Data Science at student at NYU.
-Before that I completed my Bachelors at George Mason University.
-
+I'm a currently studying for my Masters in Data Science at student at [NYU](https://cds.nyu.edu/). \\
+Before that I completed my Bachelors at [George Mason University](https://www2.gmu.edu/).
