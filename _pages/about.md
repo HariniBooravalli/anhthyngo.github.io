@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a currently studying for my Masters in Data Science at student at [NYU](https://cds.nyu.edu/). \\
+I am a currently studying for my Masters in Data Science at student at [New York University](https://cds.nyu.edu/). \\
 Before that I completed my Bachelors at [George Mason University](https://www2.gmu.edu/). \\
 
 I am interested in sports analytics, machine learning, and data visualization. \\
