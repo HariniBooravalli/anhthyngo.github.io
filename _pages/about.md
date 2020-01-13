@@ -11,6 +11,6 @@ redirect_from:
 I am a currently studying for my Masters in Data Science at student at [New York University](https://cds.nyu.edu/). \\
 Before that I completed my Bachelors at [George Mason University](https://www2.gmu.edu/). 
 
-I am interested in sports analytics, machine learning, and data visualization. 
+I am interested in sports analytics, machine learning, and data visualizations. 
 
 In my spare time, I like to watch films, play guitar, find new restaurants to eat at, and be active.
